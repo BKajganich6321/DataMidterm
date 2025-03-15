@@ -1,0 +1,71 @@
+
+
+Please select one of the following options:
+1. Register a new student
+2. Remove the most recently registered student.
+3. Display all students
+4. Exit
+1
+Please enter new student ID:12
+Please enter new student Age:15
+
+
+Please select one of the following options:
+1. Register a new student
+2. Remove the most recently registered student.
+3. Display all students
+4. Exit
+1
+Please enter new student ID:189
+Please enter new student Age:16
+
+
+Please select one of the following options:
+1. Register a new student
+2. Remove the most recently registered student.
+3. Display all students
+4. Exit
+1
+Please enter new student ID:24
+Please enter new student Age:59
+
+
+Please select one of the following options:
+1. Register a new student
+2. Remove the most recently registered student.
+3. Display all students
+4. Exit
+3
+Student ID: 12, Student Age: 15
+Student ID: 24, Student Age: 59
+Student ID: 189, Student Age: 16
+
+
+Please select one of the following options:
+1. Register a new student
+2. Remove the most recently registered student.
+3. Display all students
+4. Exit
+2
+
+
+Please select one of the following options:
+1. Register a new student
+2. Remove the most recently registered student.
+3. Display all students
+4. Exit
+3
+Student ID: 12, Student Age: 15
+Student ID: 189, Student Age: 16
+
+
+Please select one of the following options:
+1. Register a new student
+2. Remove the most recently registered student.
+3. Display all students
+4. Exit
+4
+
+C:\src\DataMidterm\x64\Debug\BKajganichMidterm.exe (process 92520) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
